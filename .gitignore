@@ -1,0 +1,9 @@
+data.json
+summary.json
+.DS_Store
+/node_modules/
+/output/
+.*~
+package-lock.json
+*.orig
+.*.swp

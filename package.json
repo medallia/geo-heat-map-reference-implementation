@@ -1,0 +1,13 @@
+{
+  "name": "geographic-heat-map-generation",
+  "version": "1.0.0",
+  "description": "Reference Implementation to generate TopoJSON for MEC Geographic Heat Maps",
+  "main": "index.js",
+  "devDependencies": {
+    "mapshaper": "0.5.57"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "Apache-2.0"
+}

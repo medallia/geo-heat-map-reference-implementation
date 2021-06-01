@@ -1,0 +1,13 @@
+{
+  "scale": 900,
+  "width": 1500,
+  "height": 600,
+  "latCenter": 263,
+  "longCenter": 39,
+  "projection": "geoAlbersUsa",
+  "rotation": [
+    0,
+    0,
+    0
+  ]
+}
